@@ -71,3 +71,18 @@ footer {
     margin: 35px auto;
   }
 }
+figure {
+  margin: 22px 0;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+figcaption {
+  margin-top: 6px;
+  color: #888;
+  font-size: 13px;
+}
